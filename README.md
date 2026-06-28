@@ -1,2 +1,2 @@
-# Simple-Portfolio
-a Portfolio with a login form followed by the details
+# Personal Portfolio
+Responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and contact information.
